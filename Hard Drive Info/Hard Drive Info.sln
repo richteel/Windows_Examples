@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hard Drive Info", "Hard Drive Info.csproj", "{03AF942F-2EFC-471A-ABAB-B2BC8D7588F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91BD0702-7B45-4EFE-8955-3327F7D8C810}"
+	ProjectSection(SolutionItems) = preProject
+		References.txt = References.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AF942F-2EFC-471A-ABAB-B2BC8D7588F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AF942F-2EFC-471A-ABAB-B2BC8D7588F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AF942F-2EFC-471A-ABAB-B2BC8D7588F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AF942F-2EFC-471A-ABAB-B2BC8D7588F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A76442F-A2AE-4003-898B-B4340BB7F4E9}
+	EndGlobalSection
+EndGlobal

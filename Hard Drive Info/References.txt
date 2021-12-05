@@ -1,0 +1,16 @@
+Get Hard disk serial Number
+	https://stackoverflow.com/questions/4084402/get-hard-disk-serial-number
+
+How To Get The Serial Number Of Hard Drive By C#
+	https://www.c-sharpcorner.com/blogs/how-to-get-the-serial-number-of-hard-drive-by-c-sharp
+
+Obtaining HDD Serial Number via Drive Letter using WMI query in C#
+	https://stackoverflow.com/questions/31129989/obtaining-hdd-serial-number-via-drive-letter-using-wmi-query-in-c-sharp
+
+How to link the output from win32_diskdrive and win32_volume
+	https://social.technet.microsoft.com/Forums/en-US/f82e6f0b-ab97-424b-8e91-508d710e03b1/how-to-link-the-output-from-win32diskdrive-and-win32volume?forum=winserverpowershell
+
+Can a single volume be assigned multiple drive letters?
+	cmd> SUBST z: d:\
+	Result: LogicalDisks and DriveInfo.GetDisks both showed the Z drive with same info as D drive
+	https://superuser.com/questions/494475/can-a-single-volume-be-assigned-multiple-drive-letters
